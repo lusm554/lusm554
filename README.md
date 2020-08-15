@@ -10,5 +10,5 @@
 
 <details>
   <summary><b>2020 goal</b></summary>
-  I want to improve my knowledge of web development and get my first internship. 🥡🥢
+  I want to improve my knowledge of web development and get my first internship.
 </details>
