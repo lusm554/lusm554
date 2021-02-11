@@ -1,10 +1,9 @@
-<p align="center">
-  <br><br>
-  <samp>
-    <img src="https://media0.giphy.com/media/TKRDRPMO1JPNyA9uyj/giphy.gif" width="240px" align="center"></br>
-    <a href="https://twitter.com/_love_yousomuch">Twitter</a>|<a href="mailto:loveyousomuch554@gmail.com">Email</a>
-  </samp>
-</p>
+### Hi 👋
+
+
+![lusm554's GitHub stats](https://github-readme-stats.vercel.app/api?username=lusm554&show_icons=true)
+
+You can contact me via <a href="https://telegram.me/lusm554">Telegram</a> or <a href="mailto:loveyousomuch554@gmail.com">email</a>
 
 <details>
   <summary><b>2021 goal</b></summary>
